@@ -1,2 +1,2 @@
 # AluraChallenge1
-Cryptography page, Alura Challenge No. 1 (Amateur)
+An simple and summarized Cryptography page, Alura Challenge No. 1 (Amateur)
